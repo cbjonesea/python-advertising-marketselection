@@ -1,5 +1,5 @@
 # python-advertising-marketselection
- Python data exploration to find the two best markets for advertising a (fictional) e-learning platform
+ Python data exploration to find the two best markets for advertising an e-learning platform
 
 ## Description
 In this practice project, I assume that I'm working for an an e-learning company that offers online courses on programming. Most of the courses are on web and mobile development, but the company also covers many other domains, like data science, game development, etc. It wants to promote its product and it wants to invest some money in advertisement.
